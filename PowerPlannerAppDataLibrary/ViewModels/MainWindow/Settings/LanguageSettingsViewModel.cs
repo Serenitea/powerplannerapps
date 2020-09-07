@@ -43,6 +43,11 @@ namespace PowerPlannerAppDataLibrary.ViewModels.MainWindow.Settings
             },
             new LanguageOption()
             {
+                DisplayName = "French",
+                LanguageCode = "fr"
+            },
+            new LanguageOption()
+            {
                 DisplayName = "Portugués",
                 LanguageCode = "pt"
             },
